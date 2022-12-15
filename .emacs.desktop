@@ -1,0 +1,43 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Sep  2 15:59:57 2022
+;; Desktop file format version 208
+;; Emacs version 28.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (25362 28365 220498 0) (desktop . "208") "hudsonnash@hudsons-air-2.lan" nil nil ((((minibuffer . t) (tty-type . "xterm-256color") (tty . "/dev/tty") (display-type . color) (background-mode . dark) (cursor-color . "white") (scroll-bar-foreground . "dark turquoise") (background-color . "gray34") (foreground-color . "gray97") (scroll-bar-background . "gray20") (frameset--id . "3897-0859-A037-6643") (frameset--mini t) (font . "tty") (height . 61) (width . 128) (modeline . t) (unsplittable) (menu-bar-lines . 1) (tab-bar-lines . 0)) ((min-height . 8) (min-width . 10) (min-height-ignore . 4) (min-width-ignore . 4) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 8) (min-pixel-width . 10) (min-pixel-height-ignore . 4) (min-pixel-width-ignore . 4) (min-pixel-height-safe . 2) (min-pixel-width-safe . 2)) vc (pixel-width . 128) (pixel-height . 60) (total-width . 128) (total-height . 60) (normal-height . 1.0) (normal-width . 1.0) (combination-limit . t) (leaf (pixel-width . 128) (pixel-height . 51) (total-width . 128) (total-height . 51) (normal-height . 0.85) (normal-width . 1.0) (buffer ".emacs" (selected . t) (hscroll . 0) (fringes 0 0 nil nil) (margins 2) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 3196) (start . 2395)) (prev-buffers ("mule.el.gz" 9814 10630) ("*Buffer List*" 1 51) ("*scratch*" 1 1))) (leaf (last . t) (pixel-width . 128) (pixel-height . 9) (total-width . 128) (total-height . 9) (normal-height . 0.15000000000000002) (normal-width . 1.0) (buffer "*Backtrace*" (selected) (hscroll . 0) (fringes 0 0 nil nil) (margins 1) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 364) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/Users/hudsonnash/Dropbox/hudson-emacs/.emacs"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/Users/hudsonnash/Dropbox/hudson-emacs/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(eldoc-mode global-auto-revert-mode linum-mode)
+  3196
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 25362 28364 28668 0) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Applications/Emacs.app/Contents/Resources/lisp/international/mule.el.gz"
+  "mule.el.gz"
+  'emacs-lisp-mode
+  '(eldoc-mode global-auto-revert-mode linum-mode)
+  10630
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 25362 28331 309264 0) (buffer-file-coding-system . prefer-utf-8-unix))
+  '((mark-ring nil)))
+

@@ -1,0 +1,331 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu Dec 15 13:38:23 2022
+;; Desktop file format version 208
+;; Emacs version 28.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (25499 30639 657969 0) (desktop . "208") "hudsonnash@Hud-Air-3.local" nil nil ((((minibuffer . t) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "#ffdfaf") (background-color . "#262626") (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (undecorated) (ns-appearance) (ns-transparent-titlebar) (z-group) (no-focus-on-map) (no-accept-focus) (menu-bar-lines . 1) (tool-bar-lines . 1) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (scroll-bar-height . 15) (alpha) (fullscreen . fullboth) (display-type . color) (background-mode . dark) (cursor-color . "#ffdfaf") (scroll-bar-foreground . "white") (environment) (modeline . t) (unsplittable) (tab-bar-lines . 0) (frameset--id . "A3F2-9676-148D-2971") (frameset--mini t . t) (display . "Hud-Air-3.local") (last-focus-update) (icon-name) (explicit-name) (tool-bar-position . top) (visibility . t) (height . 62) (width . 200) (left . 2) (top . 26)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 9) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 56) (min-pixel-width . 70) (min-pixel-height-ignore . 28) (min-pixel-width-ignore . 63) (min-pixel-height-safe . 14) (min-pixel-width-safe . 14)) leaf (pixel-width . 1431) (pixel-height . 854) (total-width . 204) (total-height . 61) (normal-height . 1.0) (normal-width . 1.0) (buffer "2.org" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins 2) (scroll-bars nil 3 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 573) (start . 1)) (prev-buffers ("1.org" 1 30))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '(#("(use-package org-roam\n  :ensure t)\n" 0 35 (isearch-case-fold-search t isearch-regexp-function nil)) #("Roam" 0 4 (isearch-case-fold-search nil isearch-regexp-function nil)) #("sch" 0 3 (isearch-case-fold-search t isearch-regexp-function nil)) #("send" 0 4 (isearch-case-fold-search t isearch-regexp-function nil)) #("new" 0 3 (isearch-case-fold-search t isearch-regexp-function nil)) #("single df" 0 9 (isearch-regexp-function nil isearch-case-fold-search t)) #("out" 0 3 (isearch-case-fold-search t isearch-regexp-function nil)) #("office" 0 6 (isearch-case-fold-search t isearch-regexp-function nil)) #("custom" 0 6 (isearch-case-fold-search t isearch-regexp-function nil))))
+(setq regexp-search-ring nil)
+(setq register-alist (list (list 116 "Unprintable entity" (let ((mk (make-marker))) (add-hook 'desktop-delay-hook (lambda nil (set-marker mk nil (get-buffer " *temp*")))) mk))))
+(setq file-name-history '("/Users/hudsonnash/Dropbox/2.org" "/Users/hudsonnash/Dropbox/hudson-emacs/.emacs" "/Users/hudsonnash/Dropbox/1.org" "/Users/hudsonnash/dropbox/mac/desktop/su22s/phil/phil/data/xlsx/Note.txt" "~/dropbox/mac/desktop/su22s/phil/phil/data/xlsx" "~/desktop/phil/control/Makefile" "/Users/hudsonnash/Dropbox/hudson-emacs/.emacs.d/init.el" "/Users/hudsonnash/Dropbox/hudson-emacs/.emacs.desktop" "/Users/hudsonnash/Dropbox/hudson-emacs/.emacs.d/.emacs.d" "/Users/hudsonnash/Desktop/phil2/modules/preptools.py" "/Users/hudsonnash/Desktop/phil2/modules/scrapetools/exportdata.py" "/Users/hudsonnash/Desktop/phil2/modules/scrapetools/log.py" "/Users/hudsonnash/Desktop/phil2/modules/scrapetools/lowlevel_analyze.py" "/Users/hudsonnash/Desktop/phil2/modules/scrapetools/__init__.py" "/Users/hudsonnash/Desktop/phil2/modules/scrapetools/initial_cleanup.py" "~/dropbox/Mac/desktop/su22s/phil/phil/.git" "/Users/hudsonnash/Desktop/phil/control/clean.py" "/Users/hudsonnash/Dropbox/code/Scratch/trying-sympy.py" "/Users/hudsonnash/Dropbox/code/Scratch" "~/dropbox/code/Timely Data/Podfile" "/Users/hudsonnash/desktop/Your files in Dropbox/Su22s/phil/phil/control/clean_dump_to_dir.py" "/Users/hudsonnash/desktop/Your files in Dropbox/Su22s/phil/phil/control/mkspreadsheet.py" "/Users/hudsonnash/desktop/Your files in Dropbox/Su22s/phil/phil/control/mksheet.py" "/Users/hudsonnash/desktop/Your files in Dropbox/Su22s/phil/phil/test/pagetest.py" "/Users/hudsonnash/desktop/Your files in Dropbox/Su22s/phil/phil/test/cfstest.py" "/Users/hudsonnash/desktop/Your files in Dropbox/Su22s/phil/phil/control/clean.py" "~/desktop/Your files in Dropbox/Su22s/phil/phil/control/mksheet.py" "/Users/hudsonnash/desktop/Your files in Dropbox/Su22s/phil/phil/control/convert.sh" "/Users/hudsonnash/desktop/Your files in Dropbox/Su22s/phil/phil/control/convert.cmd" "~/desktop/Your files in Dropbox/Su22s/phil/phil/control/requirements.txt" "~/desktop/Your files in Dropbox/Su22s/phil/phil/control/mksheet.py" "/Applications/LibreOffice.app/Contents/Frameworks/LibreOfficePython.framework/Versions/3.8/lib/python3.8/subprocess.py" "~/desktop/Your files in Dropbox/Su22s/phil/phil/control/clean.py" "/Users/hudsonnash/Dropbox/hudson-emacs/.emacs"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/Users/hudsonnash/Dropbox/2.org"
+  "2.org"
+  'org-mode
+  '(global-auto-revert-mode linum-mode override-global-mode org-indent-mode)
+  573
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 25499 30548 342206 0) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
+  '((mark-ring (1 1 1 1 1 1 146 183 233 575 334 338 306 338 341 573))))
+
+(desktop-create-buffer 208
+  "/Users/hudsonnash/Dropbox/1.org"
+  "1.org"
+  'org-mode
+  '(global-auto-revert-mode linum-mode override-global-mode org-indent-mode)
+  30
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 25499 28057 253040 978000) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
+  '((mark-ring (30 30 30 30 30 30 30))))
+
+(desktop-create-buffer 208
+  "/Users/hudsonnash/Dropbox/hudson-emacs/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(eldoc-mode global-auto-revert-mode linum-mode override-global-mode)
+  6260
+  '(5889 nil)
+  nil
+  nil
+  '((buffer-display-time 25499 27903 135808 978000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (3441 2488 327 3438 3463 3463 3413 3459 3909 4242 4324 4325 4343 4159 4343 6260))))
+
+(desktop-create-buffer 208
+  "/Users/hudsonnash/dropbox/mac/desktop/su22s/phil/phil/data/xlsx/Note.txt"
+  "Note.txt"
+  'text-mode
+  '(global-auto-revert-mode linum-mode override-global-mode)
+  68
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 25499 27707 176606 132000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "xlsx"
+  'dired-mode
+  '(global-auto-revert-mode linum-mode override-global-mode)
+  284
+  '(nil nil)
+  t
+  '("/Users/hudsonnash/dropbox/mac/desktop/su22s/phil/phil/data/xlsx/")
+  '((buffer-display-time 25499 27590 190970 631000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/hudsonnash/desktop/phil/control/Makefile"
+  "Makefile"
+  'makefile-bsdmake-mode
+  '(global-auto-revert-mode linum-mode override-global-mode)
+  201
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-display-time 25499 27537 867698 631000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/hudsonnash/Dropbox/hudson-emacs/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(eldoc-mode global-auto-revert-mode linum-mode override-global-mode)
+  236
+  '(25 nil)
+  nil
+  nil
+  '((buffer-display-time 25499 27515 78309 17000) (buffer-file-coding-system . prefer-utf-8-unix))
+  '((mark-ring (236 236 236 236 236 236 70 89 236))))
+
+(desktop-create-buffer 208
+  "/Users/hudsonnash/.emacs.d/elpa/org-roam-2.2.2/org-roam-compat.el"
+  "org-roam-compat.el"
+  'emacs-lisp-mode
+  '(eldoc-mode global-auto-revert-mode linum-mode override-global-mode)
+  3372
+  '(2032 nil)
+  nil
+  nil
+  '((buffer-display-time 25499 27455 228471 383000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (3372))))
+
+(desktop-create-buffer 208
+  "/Users/hudsonnash/Dropbox/hudson-emacs/.emacs.desktop"
+  ".emacs.desktop"
+  'emacs-lisp-mode
+  '(eldoc-mode global-auto-revert-mode linum-mode override-global-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 25499 26156 735368 840000) (buffer-file-coding-system . utf-8-emacs-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/hudsonnash/Dropbox/hudson-emacs/.emacs.d/.emacs.d"
+  ".emacs.d"
+  'fundamental-mode
+  '(global-auto-revert-mode linum-mode override-global-mode)
+  1317
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 25499 26132 183217 840000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Applications/Emacs.app/Contents/Resources/lisp/mail/sendmail.el.gz"
+  "sendmail.el.gz"
+  'emacs-lisp-mode
+  '(eldoc-mode global-auto-revert-mode linum-mode override-global-mode)
+  14587
+  '(14499 nil)
+  nil
+  nil
+  '((buffer-display-time 25499 26059 635335 840000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (14511 14228 14465 14671 14228 14511 14786 14587 14587))))
+
+(desktop-create-buffer 208
+  "/Applications/Emacs.app/Contents/Resources/etc/HELLO"
+  "HELLO"
+  'fundamental-mode
+  '(global-auto-revert-mode linum-mode override-global-mode enriched-mode view-mode)
+  1
+  '(nil nil)
+  t
+  nil
+  '((tab-width . 42) (buffer-display-time 25499 24988 423844 840000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/hudsonnash/Desktop/phil2/modules/scrapetools/initial_cleanup.py"
+  "initial_cleanup.py"
+  'python-mode
+  '(eldoc-mode global-auto-revert-mode elpy-mode company-mode flymake-mode highlight-indentation-mode yas-minor-mode linum-mode override-global-mode auto-complete-mode)
+  28
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 25499 24469 749979 840000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (28 28))))
+
+(desktop-create-buffer 208
+  "/Users/hudsonnash/.emacs.d/games/snake-scores"
+  "snake-scores"
+  'fundamental-mode
+  '(global-auto-revert-mode linum-mode override-global-mode view-mode)
+  68
+  '(68 nil)
+  t
+  nil
+  '((buffer-display-time 25499 23409 991422 840000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "scrapetools"
+  'dired-mode
+  '(global-auto-revert-mode linum-mode override-global-mode)
+  615
+  '(1 nil)
+  t
+  '("/Users/hudsonnash/Desktop/phil2/modules/scrapetools/")
+  '((buffer-display-time 25499 24993 48304 840000))
+  '((mark-ring (1 1 1 1 615 615 615))))
+
+(desktop-create-buffer 208
+  "/Users/hudsonnash/Desktop/phil2/modules/scrapetools/exportdata.py"
+  "exportdata.py"
+  'python-mode
+  '(eldoc-mode global-auto-revert-mode elpy-mode company-mode flymake-mode highlight-indentation-mode yas-minor-mode linum-mode override-global-mode auto-complete-mode)
+  8
+  '(8 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 25499 25001 281693 840000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (8 8 8 8 8))))
+
+(desktop-create-buffer 208
+  "/Users/hudsonnash/Desktop/phil2/modules/scrapetools/log.py"
+  "log.py"
+  'python-mode
+  '(eldoc-mode global-auto-revert-mode elpy-mode company-mode flymake-mode highlight-indentation-mode yas-minor-mode linum-mode override-global-mode auto-complete-mode)
+  59
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 25499 25000 925558 840000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/hudsonnash/Desktop/phil2/modules/preptools.py"
+  "preptools.py"
+  'python-mode
+  '(eldoc-mode global-auto-revert-mode elpy-mode company-mode flymake-mode highlight-indentation-mode yas-minor-mode linum-mode override-global-mode auto-complete-mode)
+  99
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 25499 25000 513624 840000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/hudsonnash/Desktop/phil2/modules/scrapetools/lowlevel_analyze.py"
+  "lowlevel_analyze.py"
+  'python-mode
+  '(eldoc-mode global-auto-revert-mode elpy-mode company-mode flymake-mode highlight-indentation-mode yas-minor-mode linum-mode override-global-mode auto-complete-mode)
+  8
+  '(8 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 25499 24999 822416 840000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (8))))
+
+(desktop-create-buffer 208
+  "/Users/hudsonnash/Desktop/phil2/modules/scrapetools/__init__.py"
+  "__init__.py"
+  'python-mode
+  '(eldoc-mode global-auto-revert-mode elpy-mode company-mode flymake-mode highlight-indentation-mode yas-minor-mode linum-mode override-global-mode auto-complete-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 25499 24999 391489 840000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/hudsonnash/dropbox/Mac/desktop/su22s/phil/phil/.git/COMMIT_EDITMSG"
+  "COMMIT_EDITMSG"
+  'fundamental-mode
+  '(global-auto-revert-mode linum-mode override-global-mode)
+  29
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 25499 24998 472891 840000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  ".git"
+  'dired-mode
+  '(global-auto-revert-mode linum-mode override-global-mode)
+  281
+  '(nil nil)
+  t
+  '("/Users/hudsonnash/dropbox/Mac/desktop/su22s/phil/phil/.git/")
+  '((buffer-display-time 25499 24995 458346 840000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/hudsonnash/Desktop/phil/control/clean.py"
+  "clean.py"
+  'python-mode
+  '(eldoc-mode global-auto-revert-mode elpy-mode company-mode flymake-mode highlight-indentation-mode yas-minor-mode linum-mode override-global-mode auto-complete-mode)
+  1258
+  '(1258 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 25499 24995 268478 840000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1258 1258 1258 1258 1258))))
+
+(desktop-create-buffer 208
+  nil
+  "*info*"
+  'Info-mode
+  '(global-auto-revert-mode linum-mode override-global-mode)
+  57616
+  '(57616 nil)
+  t
+  '("/Applications/Emacs.app/Contents/Resources/info/emacs" "Distrib" nil)
+  '((tab-width . 8) (buffer-display-time 25499 24995 398959 840000) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "preptools.py"
+  'dired-mode
+  '(global-auto-revert-mode linum-mode override-global-mode)
+  1
+  '(nil nil)
+  t
+  '("/Users/hudsonnash/Desktop/phil2/modules/preptools.py")
+  '((buffer-display-time 25499 24998 524243 840000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Applications/Emacs.app/Contents/Resources/lisp/loaddefs.el"
+  "loaddefs.el"
+  'emacs-lisp-mode
+  '(eldoc-mode global-auto-revert-mode linum-mode override-global-mode)
+  1091847
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 25499 30548 256270 0) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+

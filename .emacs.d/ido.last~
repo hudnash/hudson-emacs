@@ -1,0 +1,147 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/hudsonnash/dropbox/" . "code/")
+ ("/Users/hudsonnash/Dropbox/hudson-emacs/" . ".emacs.d/")
+ ("/Users/" . "hudsonnash/")
+ ("/" . "Users/")
+ ("/Applications/Emacs.app/Contents/" . "Resources/")
+ ("/Applications/Emacs.app/" . "Contents/")
+ ("/Applications/" . "Emacs.app/")
+ ("/Users/hudsonnash/Desktop/phil2/modules/" . "scrapetools/")
+ ("/Users/hudsonnash/Desktop/phil2/" . "modules/")
+ ("/Users/hudsonnash/Desktop/phil/" . "control/")
+ ("/Users/hudsonnash/desktop/Your files in Dropbox/Su22s/phil/phil/" . "test/")
+ ("/Users/hudsonnash/Dropbox/" . "hudson-emacs/")
+ ("/Users/hudsonnash/Desktop/Su22s/phil/phil/" . "control/")
+ ("/Users/hudsonnash/Desktop/Su22s/phil/" . "phil/")
+ ("/Users/hudsonnash/Desktop/Su22s/" . "phil/")
+ ("/Users/hudsonnash/Desktop/" . "phil2/")
+ ("/Users/hudsonnash/" . "Dropbox/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/hudsonnash/Dropbox/hudson-emacs/"
+ "/Users/hudsonnash/Dropbox/"
+ "/Users/hudsonnash/dropbox/mac/desktop/su22s/phil/phil/data/xlsx/"
+ "/Users/hudsonnash/Dropbox/hudson-emacs/.emacs.d/"
+ "/Users/hudsonnash/Desktop/phil2/modules/"
+ "/Users/hudsonnash/Desktop/phil2/modules/scrapetools/"
+ "/Users/hudsonnash/Desktop/phil/control/"
+ "/Users/hudsonnash/Dropbox/code/Scratch/"
+ "/Users/hudsonnash/Dropbox/code/"
+ "/Users/hudsonnash/desktop/Your files in Dropbox/Su22s/phil/phil/control/"
+ "/Users/hudsonnash/desktop/Your files in Dropbox/Su22s/phil/phil/test/"
+ "/Users/hudsonnash/Desktop/Su22s/phil/phil/control/"
+ "/Users/hudsonnash/Downloads/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs"
+ "1.org"
+ "Note.txt"
+ "init.el"
+ ".emacs.desktop"
+ ".emacs.d"
+ "preptools.py"
+ "exportdata.py"
+ "log.py"
+ "lowlevel_analyze.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/hudsonnash/Dropbox/hudson-emacs/.emacs.d/" (25495 27537 872477 984000) "games/" "elpa/" ".emacs.desktop.lock" "org-roam.db" ".emacs.d" "init.el" ".python-environments/" "url/" ".emacs.desktop" "auto-save-list/" "transient/" "elpy/" "ido.last~" "eshell/" ".DS_Store" "lisp/" "init.el~" "ido.last" "snippets/" "ac-comphist.dat" "../" "./")
+
+ ("/Users/hudsonnash/Dropbox/" (25495 27541 170232 584000) "tutorials for self/" "backup/" ".dropbox.cache/" "hudson-emacs/" "documents/" "1.org" "hudson_nash_clr_appeal.pdf" "PC (2)/" ".dropbox" "Research for Credit Form.pdf" "phot0g/" "Mac/" "shared/" "new_keynesian.pdf" "code/" "organizations.zip" "jp1109459.pdf" "classes/" "invoices/" "Vault.dbx-vault" "expanded_ch15_non-isothermalCatalyst.pdf" "Icon" ".DS_Store" "PC/" "../" "./")
+
+ ("/Users/hudsonnash/Dropbox/hudson-emacs/" (25495 27240 53108 387000) ".emacs~" ".emacs" "#.emacs#" ".emacs.d/" ".emacs.desktop" ".DS_Store" "../" "./")
+
+ ("/Users/hudsonnash/" (25495 27061 286736 995000) ".conda/" ".astropy/" ".zsh_sessions/" ".viminfo" ".bash_history" ".gitconfig" ".cache/" ".continuum/" ".python_history" "Downloads/" ".kite/" ".swiftpm/" ".gem/" "zsh-syntax-highlighting/" ".bash_profile" ".hyper.js" ".vscode/" "Documents/" "zsh-snap/" ".npm/" ".jupyter/" ".ipynb_checkpoints/" ".Trash/" "opt/" "Dropbox/" "Applications/" ".emacs" "Movies/" ".ssh/" ".anaconda/" ".cisco/" ".tcshrc" ".hyper_plugins/" ".dropbox/" "Public/" "PycharmProjects/" ".sage/" ".cups/" ".cocoapods/" ".emacs.d/" "Zotero/" "Calibre Library/" ".spyder-py3/" ".oracle_jre_usage/" ".lesshst" ".picturama/" ".matplotlib/" "Library/" "Desktop/" ".ipython/" ".zsh_history" ".flexlmrc" ".notable.json" "Maple/" ".zprofile" "Pictures/" ".local/" "OneDrive/" ".zshrc" ".bashrc" ".xonshrc" ".maplesoft/" ".CFUserTextEncoding" ".DS_Store" "thinkorswim/" ".vim/" ".anyconnect" ".thinkorswim/" ".docker/" ".condarc" ".txt" "Music/" ".config/" ".Rhistory" "../" "./")
+
+ ("/Applications/" (25494 2932 36943 103000) "Stata/" "Sublime Text.app/" "Documentation.en-us.pkg" "Discord.app/" "RStudio.app/" "Slack.app/" "Among Us.app/" "Microsoft Teams.app/" "Anaconda-Navigator.app/" "Evernote.app/" "Microsoft PowerPoint.app/" "qView.app/" "OBS.app/" "thinkorswim.app/" "Speechify.app/" "Emacs.app/" "Maple 2022/" "Notability.app/" "LiquidText.app/" "Developer.app/" "Aquamacs.app/" "GoodNotes.app/" "Darkroom.app/" "Shazam.app/" "iTerm.app/" "Microsoft OneNote.app/" "R.app/" "Agenda.app/" "Google Slides.app/" "GarageBand.app/" "Horo.app/" "Pages.app/" "MATLAB_R2021b.app/" "Google Sheets.app/" "Google Docs.app/" "IPYNB Tutorials.app/" "Noteshelf.app/" "Notable.app/" "LibreOffice.app/" "Keynote.app/" "GitHub Desktop.app/" "Microsoft Outlook.app/" "WhatsApp.app/" "Instapaper.app/" "zoom.us.app/" "calibre.app/" "Hyper.app/" "Utilities/" "Microsoft Excel.app/" "Kindle.app/" "Safari.app/" "OpenVPN Connect.app/" "iterm2.com.webloc" "Archimedes.app/" "Obsidian.app/" "Docker.app/" "Instapaper Save.app/" "Cisco/" "Microsoft Word.app/" "M-OSX-L-13.0.1-7620853.dmg" "Keyboard Keyboard.app/" "iMovie.app/" "PyCharm.app/" "Spotify.app/" "Playgrounds.app/" "Xcode.app/" "Notion.app/" "Type to Learn.app/" "Dropbox.app/" ".localized" "Splash Pro.app/" "Numbers.app/" "Photos Duplicate Cleaner.app/" "Anki.app/" "Google Chrome.app/" "GIMP-2.10.app/" "Minecraft.app/" "OpenVPN Connect/" ".DS_Store" "AppZapper.app/" "Zotero.app/" "BBEdit.app/" "Readwise.app/" "Send to Kindle/" "Visual Studio Code.app/" "Spark.app/" "../" "./")
+
+ ("/Users/hudsonnash/dropbox/code/" (25444 8556 309600 731000) "sage/" "Timely Data/" ".ipynb_checkpoints/" "final scripts/" "Scratch/" "sacha-emacs/" ".DS_Store" "../" "./")
+
+ ("/Users/hudsonnash/dropbox/" (25490 12596 51451 115000) "tutorials for self/" "backup/" ".dropbox.cache/" "hudson-emacs/" "documents/" "hudson_nash_clr_appeal.pdf" "PC (2)/" ".dropbox" "Research for Credit Form.pdf" "phot0g/" "Mac/" "shared/" "new_keynesian.pdf" "code/" "organizations.zip" "jp1109459.pdf" "classes/" "invoices/" "Vault.dbx-vault" "expanded_ch15_non-isothermalCatalyst.pdf" "Icon" ".DS_Store" "PC/" "../" "./")
+
+ ("/Users/hudsonnash/dropbox/mac/" (25494 30519 462731 905000) "Downloads/" "Documents/" "CamScanner 10-10-2022 13.28.png" "Desktop/" ".DS_Store" "../" "./")
+
+ ("/Users/hudsonnash/dropbox/mac/desktop/" (25422 53710 722499 781000) "~$terQualityMonitoringTechnology_WritingSample_Sp2019.docx" "~$mEmacsNanoCheatsheet.pdf" ".ipynb_checkpoints/" "~$PA-E Cover Letter 2022.docx" "~$dson_Nash_Resume_May_2022_final_2.docx" ".emacs.d/" "~$pirHW1_NashH_Eco441K.docx.docx" ".localized (New)" ".localized" ".tmp.driveupload/" "Files on my computer/" "Su22f/" ".DS_Store" "Su22s/" "~$Guide To Acquiring A Distressed Tech Company.docx" "Fa22/" "~$shH_ResumeCV_INROADS_Sp22.docx.docx" "Hudson/" "~$dsonNash_Rec_SandyBarker.docx" "../" "./")
+
+ ("/Users/hudsonnash/dropbox/mac/desktop/su22s/" (25479 54540 895019 904000) "Audit Storage/" "Aug29_random.rtf" "Untitled.rtf" "1hvdJgWtxFC4pQLaxNDi-N9OLvHby0upr" "decaustinwknd.rtf" "procon_togotoaustinthiswknd_jul22.rtf" ".DS_Store" "phil/" "Sp22_course_wksheet.rtf" "proj/" "../" "./")
+
+ ("/Users/hudsonnash/dropbox/mac/desktop/su22s/phil/" (25354 33398 692056 989000) ".DS_Store" "phil/" "../" "./")
+
+ ("/Users/hudsonnash/dropbox/mac/desktop/su22s/phil/phil/" (25489 18927 32649 326000) "control/" "data/" ".git/" "README.md" "../" "./")
+
+ ("/Users/hudsonnash/dropbox/mac/desktop/su22s/phil/phil/data/" (25490 7078 52446 741000) "zip/" "xlsx/" ".DS_Store" "unzipped/" "../" "./")
+
+ ("/Users/hudsonnash/dropbox/mac/desktop/su22s/phil/phil/data/xlsx/" (25489 19617 798838 878000) "December 07, 2022.xlsx" "Note.txt" "November 30, 2022.xlsx" ".DS_Store" "../" "./")
+
+ ("/Users/hudsonnash/Downloads/" (25464 28425 753080 105000) "ps622f.pdf" "image.png" "Catherine Burr Resume.pdf" "My files in Dropbox/" "Quiz2a-1 2.jpg" "NashH_HW5_ChE372.zip" "Quiz2a-3 2.jpg" "CamScanner 09-30-2022 16.49.pdf" "Catherine Burr Cover Letter_Generic.pdf" "IMG_69AAEF3543C2-1.jpeg" "hw4_nash_che360.xlsx" "CamScanner 09-28-2022 16.59.pdf" "Quiz2a-2 2.jpg" "CamScanner 09-30-2022 19.47.pdf" "IMG_21E54351A392-1.jpeg" "Sample_Exam3a.pdf" "IMG_9011.jpeg" "ps222f 2.pdf" "CamScanner 10-10-2022 13.28.pdf" "ps222f.pdf" "CamScanner 10-10-2022 13.28.jpg" "nash_hudson_practmid2_eco369f.pdf" "CamScanner 09-28-2022 16.59 2.pdf" "IMG_2900.jpeg" "CamScanner220909235708873/" "CamScanner220909235708873.zip" "NashH_Eco369f_HW4.pdf" "ps722f.pdf" "372 Exam 1 Prep.pdf" "Quiz2a-1.jpg" "CamScanner 10-10-2022 18.16.pdf" "Quiz2a-3.jpg" "NashH_HW5_ChE372/" "Quiz2a-2.jpg" "good_NashH_mid2_22.pdf" "CamScanner 09-17-2022 15.25.pdf" ".localized" "ps122f.pdf" "CamScanner 09-16-2022 16.59.pdf" ".DS_Store" "Wwl.pdf" "CamScanner 10-30-2022 00.37.pdf" "IMG_0374.HEIC" "CamScanner 11-18-2022 23.27.pdf" "../" "./")
+
+ ("/Users/hudsonnash/Desktop/phil/control/" (25489 18764 899133 549000) "xlsx_export_notebook.ipynb" "mksheet.py" "venv/" "convert.sh" "convert.cmd" "extracttools.py" "Makefile" "Dockerfile" "requirements.txt" "clean.py" "config.py" "phil.sh" "../" "./")
+
+ ("/Users/hudsonnash/Desktop/phil2/modules/scrapetools/" (25461 60754 427230 202000) "log.py~" "initial_cleanup.py~" "__init__.py" "initial_cleanup.py" "log.py" "exportdata.py" "lowlevel_analyze.py" "tabula_handler.py" "../" "./")
+
+ ("/Users/hudsonnash/Desktop/phil2/modules/" (25461 55568 933851 485000) "preptools.py" "__init__.py" "scrapetools/" ".DS_Store" "../" "./")
+
+ ("/Users/" (25332 42326 0 0) "Shared/" "hudsonnash/" ".localized" "../" "./")
+
+ ("/Applications/Emacs.app/" (25212 4733 0 0) "Contents/" "../" "./")
+
+ ("/Applications/Emacs.app/Contents/" (25212 5117 0 0) "PkgInfo" "Info.plist" "Resources/" "MacOS/" "_CodeSignature/" "../" "./")
+
+ ("/Applications/Emacs.app/Contents/Resources/" (25212 4829 0 0) "Emacs.icns" "Credits.html" "site-lisp/" "info/" "etc/" "include/" "document.icns" "lisp/" "English.lproj/" "man/" "../" "./")
+
+ ("/Applications/Emacs.app/Contents/Resources/lisp/" (25350 26172 869984 539000) "pcmpl-x.el.gz" "vcursor.el.gz" "bs.el.gz" "hexl.el.gz" "soundex.elc" "wdired.el.gz" "rect.el.gz" "help-mode.elc" "tooltip.el.gz" "shadowfile.el.gz" "bs.elc" "emacs-lock.el.gz" "array.el.gz" "image-file.el.gz" "autoinsert.elc" "iimage.el.gz" "pcomplete.el.gz" "wid-edit.el.gz" "profiler.elc" "case-table.elc" "novice.elc" "emacs-lisp/" "epa-mail.el.gz" "help-fns.el.gz" "misc.elc" "international/" "makesum.elc" "mpc.elc" "minibuf-eldef.el.gz" "svg.elc" "hfy-cmap.elc" "userlock.el.gz" "scroll-bar.elc" "savehist.el.gz" "proced.elc" "rtree.elc" "w32-vars.elc" "progmodes/" "button.elc" "tabify.elc" "autoinsert.el.gz" "dirtrack.elc" "reposition.el.gz" "edmacro.elc" "ps-print.elc" "align.el.gz" "proced.el.gz" "mb-depth.el.gz" "tutorial.el.gz" "locate.el.gz" "forms.elc" "format.elc" "scroll-bar.el.gz" "elec-pair.el.gz" "mwheel.el.gz" "tabify.el.gz" "font-core.elc" "epa-mail.elc" "md4.el.gz" "composite.el.gz" "auth-source.el.gz" "image.elc" "icomplete.elc" "display-line-numbers.elc" "thingatpt.elc" "ecomplete.el.gz" "ehelp.el.gz" "char-fold.elc" "thread.elc" "dynamic-setting.elc" "locate.elc" "so-long.elc" "info-xref.el.gz" "font-core.el.gz" "ffap.elc" "format.el.gz" "paren.elc" "edmacro.el.gz" "tmm.el.gz" "vt-control.elc" "ezimage.elc" "kermit.el.gz" "obarray.el.gz" "ldefs-boot.el" "jit-lock.elc" "play/" "frame.elc" "cus-face.elc" "format-spec.el.gz" "uniquify.el.gz" "mouse-copy.elc" "auth-source.elc" "select.elc" "cmuscheme.el.gz" "indent.el.gz" "faces.el.gz~" "msb.el.gz" "view.el.gz" "whitespace.elc" "epa-ks.el.gz" "filesets.elc" "ps-def.elc" "foldout.el.gz" "woman.elc" "find-dired.el.gz" "skeleton.elc" "htmlfontify.el.gz" "hippie-exp.elc" "facemenu.el.gz" "pcmpl-rpm.elc" "widget.elc" "iimage.elc" "calculator.el.gz" "expand.el.gz" "display-line-numbers.el.gz" "loadhist.elc" "jka-cmpr-hook.elc" "minibuffer.elc" "find-cmd.el.gz" "informat.elc" "loadhist.el.gz" "erc/" "md4.elc" "midnight.el.gz" "ps-bdf.elc" "w32-fns.elc" "pcmpl-unix.elc" "cdl.elc" "completion.elc" "dom.elc" "hex-util.el.gz" "talk.el.gz" "scroll-lock.el.gz" "ielm.elc" "recentf.el.gz" "ecomplete.elc" "info-look.elc" "dos-vars.elc" "jsonrpc.elc" "lpr.el.gz" "isearch.el.gz" "filenotify.el.gz" "forms.el.gz" "reveal.elc" "help-fns.elc" "ibuffer.elc" "dired.el.gz" "subr.el.gz" "files.el.gz" "pcmpl-gnu.elc" "misearch.elc" "chistory.elc" "env.el.gz" "hi-lock.el.gz" "tab-bar.elc" "help-at-pt.el.gz" "custom.el.gz" "view.elc" "ibuffer-loaddefs.el" "sort.elc" "autoarg.elc" "ses.elc" "ps-def.el.gz" "comint.el.gz" "hi-lock.elc" "find-dired.elc" "x-dnd.elc" "plstore.el.gz" "image.el.gz" "startup.el.gz" "notifications.elc" "minibuffer.el.gz" "w32-fns.el.gz" "htmlfontify.elc" "thumbs.el.gz" "whitespace.el.gz" "t-mouse.elc" "epg-config.el.gz" "hilit-chg.elc" "misc.el.gz" "time-stamp.elc" "color.elc" "recentf.elc" "linum.el.gz" "startup.elc" "pixel-scroll.elc" "face-remap.elc" "cus-load.el" "xt-mouse.elc" "elide-head.elc" "ps-print-loaddefs.el" "outline.elc" "newcomment.el.gz" "xt-mouse.el.gz" "ruler-mode.el.gz" "follow.el.gz" "userlock.elc" "allout.elc" "descr-text.elc" "registry.el.gz" "mwheel.elc" "timezone.elc" "json.el.gz" "rtree.el.gz" "cus-dep.el.gz" "pcomplete.elc" "transient.el.gz" "informat.el.gz" "ielm.el.gz" "wid-browse.el.gz" "thread.el.gz" "apropos.el.gz" "timezone.el.gz" "files-x.el.gz" "server.el.gz" "faces.el.gz" "epa-file.el.gz" "ehelp.elc" "makesum.el.gz" "dired-loaddefs.el" "ibuf-ext.elc" "mouse.elc" "time.el.gz" "help-macro.elc" "man.elc" "dabbrev.elc" "mouse.el.gz" "rot13.elc" "saveplace.elc" "vc/" "autorevert.elc" "allout-widgets.el.gz" "COPYING" "info.el.gz" "generic-x.elc" "foldout.elc" "pcmpl-gnu.el.gz" "replace.elc" "dframe.elc" "fileloop.el.gz" "apropos.elc" "bookmark.elc" "tool-bar.elc" "delim-col.el.gz" "help.elc" "help-macro.el.gz" "version.elc" "isearchb.el.gz" "ps-bdf.el.gz" "paren.el.gz" "cus-face.el.gz" "bindings.el.gz" "mouse-copy.el.gz" "epa-hook.elc" "window.elc" "epa-ks.elc" "pcmpl-rpm.el.gz" "menu-bar.el.gz" "pixel-scroll.el.gz" "dos-fns.elc" "ffap.el.gz" "plstore.elc" "thingatpt.el.gz" "epa-hook.el.gz" "cedet/" "tmm.elc" "epa-dired.elc" "so-long.el.gz" "face-remap.el.gz" "help.el.gz" "ps-mule.elc" "filenotify.elc" "pcmpl-cvs.elc" "version.el.gz" "dired-aux.el.gz" "abbrev.elc" "delsel.el.gz" "cus-theme.elc" "calc/" "calculator.elc" "disp-table.el.gz" "ls-lisp.elc" "hl-line.elc" "register.el.gz" "lpr.elc" "epa-file.elc" "display-fill-column-indicator.elc" "ps-print.el.gz" "simple.elc" "ibuf-ext.el.gz" "faces.elc" "generic-x.el.gz" "delim-col.elc" "man.el.gz" "reveal.el.gz" "image/" "cus-dep.elc" "url/" "README" "echistory.el.gz" "midnight.elc" "term.el.gz" "tempo.el.gz" "dired-aux.elc" "transient.elc" "leim/" "ibuf-macs.elc" "frameset.elc" "abbrev.el.gz" "strokes.elc" "repeat.elc" "help-mode.el.gz" "dirtrack.el.gz" "mh-e/" "facemenu.elc" "cus-edit.elc" "echistory.elc" "w32-vars.el.gz" "xml.elc" "strokes.el.gz" "find-cmd.elc" "pcmpl-linux.elc" "speedbar.el.gz" "kmacro.elc" "hfy-cmap.el.gz" "pcmpl-cvs.el.gz" "language/" "misearch.el.gz" "linum.elc" "filecache.el.gz" "find-lisp.elc" "simple.el.gz" "master.el.gz" "tutorial.elc" "shell.el.gz" "rect.elc" "dynamic-setting.el.gz" "xwidget.elc" "battery.el.gz" "t-mouse.el.gz" "menu-bar.elc" "char-fold.el.gz" "pcmpl-unix.el.gz" "x-dnd.el.gz" "ebuff-menu.el.gz" "vt100-led.elc" "isearch.elc" "mouse-drag.elc" "scroll-lock.elc" "find-file.elc" "vcursor.elc" "hexl.elc" "hilit-chg.el.gz" "ls-lisp.el.gz" "finder-inf.el" "subr.elc" "xml.el.gz" "env.elc" "fringe.elc" "kermit.elc" "mouse-drag.el.gz" "obarray.elc" "emacs-lock.elc" "register.elc" "ps-samp.el.gz" "epg-config.elc" "files.elc" "hl-line.el.gz" "tar-mode.elc" "flow-ctrl.el.gz" "password-cache.el.gz" "buff-menu.el.gz" "tab-line.elc" "auth-source-pass.elc" "disp-table.elc" "pcmpl-linux.el.gz" "dired.elc" "scroll-all.elc" "avoid.elc" "tree-widget.el.gz" "term/" "case-table.el.gz" "uniquify.elc" "repeat.el.gz" "notifications.el.gz" "doc-view.el.gz" "windmove.el.gz" "skeleton.el.gz" "info-xref.elc" "delsel.elc" "ansi-color.elc" "newcomment.elc" "pcmpl-x.elc" "isearchb.elc" "type-break.elc" "image-dired.elc" "select.el.gz" "profiler.el.gz" "icomplete.el.gz" "emulation/" "term.elc" "macros.elc" "windmove.elc" "jit-lock.el.gz" "htmlfontify-loaddefs.el" "reposition.elc" "printing.elc" "bookmark.el.gz" "hex-util.elc" "composite.elc" "frame.el.gz" "tooltip.elc" "kmacro.el.gz" "elide-head.el.gz" "mail/" "org/" "image-file.elc" "tempo.elc" "arc-mode.elc" "avoid.el.gz" "ps-samp.elc" "align.elc" "imenu.elc" "window.el.gz" "wdired.elc" "ses.el.gz" "scroll-all.el.gz" "sort.el.gz" "master.elc" "desktop.el.gz" "array.elc" "registry.elc" "jsonrpc.el.gz" "electric.elc" "format-spec.elc" "cus-edit.el.gz" "custom.elc" "autorevert.el.gz" "password-cache.elc" "textmodes/" "electric.el.gz" "flow-ctrl.elc" "speedbar.elc" "svg.el.gz" "vt-control.el.gz" "loaddefs.el" "autoarg.el.gz" "allout.el.gz" "frameset.el.gz" "nxml/" "allout-widgets.elc" "dnd.elc" "buff-menu.elc" "button.el.gz" "wid-edit.elc" "winner.el.gz" "server.elc" "rot13.el.gz" "dired-x.el.gz" "outline.el.gz" "epg.el.gz" "cus-start.el.gz" "printing.el.gz" "macros.el.gz" "font-lock.elc" "arc-mode.el.gz" "desktop.elc" "color.el.gz" "expand.elc" "time.elc" "subdirs.el" "dos-w32.el.gz" "double.elc" "obsolete/" "cus-start.elc" "ezimage.el.gz" "shell.elc" "jka-compr.el.gz" "epa.elc" "descr-text.el.gz" "ps-mule.el.gz" "elec-pair.elc" "follow.elc" "mpc.el.gz" "image-mode.el.gz" "image-mode.elc" "find-file.el.gz" "bindings.elc" "thumbs.elc" "dos-fns.el.gz" "eshell/" "finder.el.gz" "info-look.el.gz" "calendar/" "auth-source-pass.el.gz" "talk.elc" "ibuffer.el.gz" "tab-line.el.gz" "net/" "comint.elc" "vt100-led.el.gz" "tree-widget.elc" "json.elc" "tar-mode.el.gz" "jka-cmpr-hook.el.gz" "winner.elc" "saveplace.el.gz" "tool-bar.el.gz" "display-fill-column-indicator.el.gz" "filesets.el.gz" "time-stamp.el.gz" "gnus/" "mb-depth.elc" "cdl.el.gz" "minibuf-eldef.elc" "xdg.el.gz" "dnd.el.gz" "xdg.elc" "jka-compr.elc" "files-x.elc" "dos-vars.el.gz" "rfn-eshadow.el.gz" "fringe.el.gz" "epa-dired.el.gz" "dired-x.elc" "ibuf-macs.el.gz" "info.elc" "type-break.el.gz" "replace.el.gz" "ido.el.gz" "shadowfile.elc" "soundex.el.gz" "filecache.elc" "dframe.el.gz" "widget.el.gz" "savehist.elc" "chistory.el.gz" "epa.el.gz" "tab-bar.el.gz" "dom.el.gz" "find-lisp.el.gz" "xwidget.el.gz" "wid-browse.elc" "novice.el.gz" "double.el.gz" "hippie-exp.el.gz" "epg.elc" "ido.elc" "loadup.el" "cus-theme.el.gz" "woman.el.gz" "indent.elc" "msb.elc" "dabbrev.el.gz" "ruler-mode.elc" "finder.elc" "completion.el.gz" "help-at-pt.elc" "ansi-color.el.gz" "doc-view.elc" "ebuff-menu.elc" "cmuscheme.elc" "fileloop.elc" "font-lock.el.gz" "rfn-eshadow.elc" "imenu.el.gz" "dos-w32.elc" "image-dired.el.gz" "battery.elc" "../" "./")
+
+ ("/Applications/Emacs.app/Contents/Resources/lisp/mail/" (25461 60528 151167 864000) "flow-fill.el.gz" "hashcash.elc" "binhex.elc" "reporter.elc" "rmail-spam-filter.el.gz" "rmailedit.el.gz" "rfc6068.el.gz" "rmailsort.elc" "sendmail.elc" "supercite.el.gz" "emacsbug.el.gz" "mailabbrev.elc" "smtpmail.elc" "mailheader.elc" "uudecode.elc" "feedmail.el.gz" "rmailmsc.el.gz" "mspools.elc" "rmailmsc.elc" "rmail.el.gz" "uce.elc" "rfc2047.el.gz" "qp.elc" "mailclient.elc" "mailclient.el.gz" "footnote.elc" "rmailmm.elc" "ietf-drums.el.gz" "rfc2045.el.gz" "undigest.elc" "mailheader.el.gz" "rmailsort.el.gz" "flow-fill.elc" "rfc822.el.gz" "mailabbrev.el.gz" "rmailout.elc" "yenc.el.gz" "unrmail.elc" "rmailedit.elc" "blessmail.el" "yenc.elc" "binhex.el.gz" "qp.el.gz" "mail-extr.el.gz" "uudecode.el.gz" "mail-prsvr.el.gz" "rmailkwd.el.gz" "footnote.el.gz" "rmail.elc" "unrmail.el.gz" "mail-parse.elc" "sendmail.el.gz" "rmailmm.el.gz" "rfc2045.elc" "rfc822.elc" "mail-prsvr.elc" "rmail-loaddefs.el" "rmailkwd.elc" "hashcash.el.gz" "ietf-drums.elc" "mail-utils.elc" "undigest.el.gz" "rfc2047.elc" "mailalias.elc" "rfc2231.el.gz" "mailalias.el.gz" "feedmail.elc" "sendmail.el.gz~" "rmail-spam-filter.elc" "mail-utils.el.gz" "mail-hist.el.gz" "reporter.el.gz" "uce.el.gz" "emacsbug.elc" "rmailsum.elc" "rfc2231.elc" "smtpmail.el.gz" "supercite.elc" "mail-extr.elc" "rmailsum.el.gz" "mspools.el.gz" "rmailout.el.gz" "mail-parse.el.gz" "rfc6068.elc" "mail-hist.elc" "../" "./")
+
+ ("/Users/hudsonnash/Dropbox/code/" (25444 8556 309600 731000) "sage/" "Timely Data/" ".ipynb_checkpoints/" "final scripts/" "Scratch/" "sacha-emacs/" ".DS_Store" "../" "./")
+
+ ("/Users/hudsonnash/Dropbox/code/Scratch/" (25442 47444 121461 634000) "table.pdf" ".ipynb_checkpoints/" "Phil headers merge (1.1.0) scratch.ipynb" "Trying sympy and sage.ipynb" "trying-sympy.py" ".DS_Store" "../" "./")
+
+ ("/Users/hudsonnash/Desktop/phil2/" (25461 54712 421608 352000) "modules/" ".DS_Store" "../" "./")
+
+ ("/Users/hudsonnash/Desktop/" (25461 54578 488951 933000) "Screen Shot 2022-11-04 at 12.24.29 AM.png" "Screen Shot 2022-11-03 at 3.37.36 PM.png" "affirm/" "phil2/" "Screen Shot 2022-11-03 at 3.42.31 PM.png" "NashH_ChE372_HW4_F22a.pdf.pdf" "Screen Shot 2022-11-11 at 10.31.01 PM.png" "PDF document.pdf" "Consumption2009-11-25.pdf" "Screen Shot 2022-11-08 at 5.01.02 PM.png" "Screen Shot 2022-11-08 at 11.21.31 AM.png" "Screen Shot 2022-11-04 at 2.45.00 PM.png" "Undergraduate-SampleCoverLetter2020.pdf" "sagemath_symbolic_calculus.pdf" "Screen Shot 2022-11-08 at 12.02.27 AM.png" "Screen Shot 2022-11-04 at 12.28.51 AM.png" ".localized" "Screen Shot 2022-11-07 at 11.57.58 PM.png" ".DS_Store" "phil/" "../" "./")
+
+ ("/Users/hudsonnash/dropbox/Mac/" (25450 121 566094 533000) "Downloads/" "Documents/" "CamScanner 10-10-2022 13.28.png" "IMG_2900.jpeg" "Desktop/" ".DS_Store" "../" "./")
+
+ ("/Users/hudsonnash/dropbox/Mac/desktop/" (25422 53710 722499 781000) "~$terQualityMonitoringTechnology_WritingSample_Sp2019.docx" "~$mEmacsNanoCheatsheet.pdf" ".ipynb_checkpoints/" "~$PA-E Cover Letter 2022.docx" "~$dson_Nash_Resume_May_2022_final_2.docx" ".emacs.d/" "~$pirHW1_NashH_Eco441K.docx.docx" ".localized (New)" ".localized" ".tmp.driveupload/" "Files on my computer/" "Su22f/" ".DS_Store" "Su22s/" "~$Guide To Acquiring A Distressed Tech Company.docx" "Fa22/" "~$shH_ResumeCV_INROADS_Sp22.docx.docx" "Hudson/" "~$dsonNash_Rec_SandyBarker.docx" "../" "./")
+
+ ("/Users/hudsonnash/dropbox/Mac/desktop/su22s/" (25371 20887 395612 684000) "Aug29_random.rtf" "Untitled.rtf" "decaustinwknd.rtf" "procon_togotoaustinthiswknd_jul22.rtf" ".DS_Store" "phil/" "Sp22_course_wksheet.rtf" "proj/" "../" "./")
+
+ ("/Users/hudsonnash/dropbox/Mac/desktop/su22s/phil/" (25354 33398 692056 989000) ".DS_Store" "phil/" "../" "./")
+
+ ("/Users/hudsonnash/dropbox/Mac/desktop/su22s/phil/phil/" (25436 13969 906850 966000) "control/" "data/" ".git/" "README.md" "test/" "../" "./")
+
+ ("/Users/hudsonnash/dropbox/Mac/desktop/su22s/phil/phil/.git/" (25461 54427 92243 9000) "FETCH_HEAD" "COMMIT_EDITMSG" "packed-refs" "index" "refs/" "hooks/" "#COMMIT_EDITMSG#" "description" "logs/" "info/" "HEAD" "objects/" "config" "ORIG_HEAD" "../" "./")
+
+ ("/Users/hudsonnash/Desktop/phil/" (25426 62170 482448 903000) "control/" "data/" "README.md" ".spyproject/" "test/" ".DS_Store" "../" "./")
+
+ ("/Users/hudsonnash/desktop/Your files in Dropbox/Su22s/phil/phil/" (25434 56203 445451 264000) "control/" "data/" ".git/" ".gitignore" "README.md" "test/" ".DS_Store" "../" "./")
+
+ ("/Users/hudsonnash/desktop/Your files in Dropbox/Su22s/phil/phil/control/" (25434 56278 524526 728000) "#mkspreadsheet.py#" "n line under-indented for visual indent" "precedent.py" "requirements.txt~" "S" "test.py" "ssh_passphrases.txt" "ssh_passphrases.txt.pub" "#clean.py#" "#clean_dump_to_dir.py#" "../" "./")
+
+ ("/Users/hudsonnash/dropbox/code/Timely Data/" (25400 49025 330031 48000) "Timely DataUITests/" "#Podfile#" "Timely Data/" ".#Podfile" ".git/" "Podfile" "Pods/" "Timely Data.xcodeproj/" ".DS_Store" "Timely DataTests/" "../" "./")
+
+ ("/Users/hudsonnash/desktop/Your files in Dropbox/Su22s/phil/phil/test/" (25385 41374 737272 104000) "cfstest.py" "pagetest.py~" "#pagetest.py#" ".DS_Store" "cookie.txt" "../" "./")
+
+ ("/Users/hudsonnash/.emacs.d/elpa/jedi-core-20210503.1315/" (25354 39973 873283 256000) "jedi-core-autoloads.el" "jedi-core.el" "setup.py" "jedi-core.elc" "Makefile" ".#jedi-core.el" "jediepcserver.py" "jedi-core-pkg.el" "../" "./")
+
+ ("/Users/hudsonnash/Desktop/Su22s/phil/phil/control/" (25354 39703 449422 927000) "sample.txt" "#mkspreadsheet.py#" "Antiword/" "convert.sh" "mkspreadsheet_v0.py" "test.xlsx" "phil.py" ".emacs.desktop" "clean_dump_to_dir.py" "~$test.xlsx" "phil_v0.py" "mkspreadsheet.py" "#clean_dump_to_dir.py#" "click_me.sh" "../" "./")
+
+ ("/Users/hudsonnash/Desktop/Su22s/phil/phil/" (25347 59758 345406 298000) "control/" "data/" ".git/" "README.md" "test/" ".DS_Store" "../" "./")
+
+ ("/Users/hudsonnash/Desktop/Su22s/phil/" (25354 33398 692056 989000) ".DS_Store" "phil/" "../" "./")
+
+ ("/Users/hudsonnash/Desktop/Su22s/" (25324 14496 545734 114000) "decaustinwknd.rtf" "procon_togotoaustinthiswknd_jul22.rtf" ".DS_Store" "phil/" "Sp22_course_wksheet.rtf" "proj/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

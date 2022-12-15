@@ -1,0 +1,60 @@
+pip help
+pip freeze
+python pandas --version
+pandas --version
+pip 
+ip pandas --version
+pip help
+pip --version pandas
+pip pandas --version
+pip show pandas
+pip show tabula
+pip show tabula-py
+pip show unoconv
+python -m pip install -r requirements.txt
+python -m pip install -r requirements.txt
+git branch
+git status
+git add requirements.txt
+git commit -m "Added requirements.txt officially"
+git push
+git help
+git help push
+git push --set-upstream origin
+git push --set-upstream origin
+git set-url origin git@github.com:jhudsonnash/phil.git
+git help set-url
+git help set
+git help -set-url
+git remote -v
+git remote set-url git@github.com:jhudsonnash/phil.git
+git remote -v
+git remote set-url origin git@github.com:jhudsonnash/phil.git
+git remote -v
+git status
+git remote set-url origin git@github.com:jhudsonnash/phil.gitgit push
+git push
+unoconv --version
+LibreOffice
+libreoffice
+run libreoffice
+open libreoffice
+libreoffice
+git status
+git add convert.cmd
+git commit -m "Added convert.cmd for running unoconv command line interface on Windows"
+git push
+python mksheet.py -d '../data/unzipped'
+python mksheet.py -d '../data/unzipped'
+python mksheet.py -d '../data/unzipped'
+python mksheet.py -d '../data/unzipped'
+python mksheet.py -d '../data/unzipped'
+python mksheet.py -d '../data/unzipped'
+python mksheet.py -d '../data/unzipped'
+python mksheet.py -d '../data/unzipped'
+python mksheet.py -d '../data/unzipped'
+python mksheet.py -d '../data/unzipped'
+Single DF in file
+python mksheet.py -d '../data/unzipped'
+git push
+python mkspreadsheet.py
